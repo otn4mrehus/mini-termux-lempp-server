@@ -19,7 +19,7 @@ chmod +x termux-main.sh
 ```
 
 ### Isi Skrip
-#### Simpan file ini dengan nama
+#### Ada lampiran
 ---
 
 ## Cara Penggunaan
